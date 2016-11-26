@@ -7,8 +7,7 @@
     "require": {
         "php": ">=5.6.4",
         "laravel/framework": "5.3.*",
-        "google/cloud": "^0.13.0",
-        "dingo/api": "1.0.x@dev"
+        "google/cloud": "^0.13.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
