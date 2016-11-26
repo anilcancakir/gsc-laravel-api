@@ -1,7 +1,7 @@
 {
     "name": "anilcancakir/gsc-laravel-api",
-    "description": "Google Storage Cloud service API Sample by Laravel 5.3.",
-    "keywords": ["google cloud", "google storage", "gsc api", "framework", "laravel"],
+    "description": "Google Storage Client service API Sample by Laravel 5.3.",
+    "keywords": ["google storage client", "google storage", "gsc api", "framework", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {

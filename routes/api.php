@@ -14,5 +14,9 @@ use Illuminate\Http\Request;
 */
 
 Route::group(['prefix' => 'storage'], function () {
-    Route::get('action', 'StorageController@action');
+    Route::get('info', 'StorageController@info');
+    Route::get('delete', 'StorageController@delete');
+    Route::get('url', 'StorageController@url');
+
+    Route::post('upload', 'StorageController@upload');
 });
